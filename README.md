@@ -8,6 +8,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
