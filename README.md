@@ -9,6 +9,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1929-concatenation-of-array/) | Easy |
@@ -17,6 +18,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -63,8 +66,10 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
