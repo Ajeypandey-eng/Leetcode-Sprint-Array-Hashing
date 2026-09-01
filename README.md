@@ -16,6 +16,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0605-can-place-flowers/) | Easy |
+| [0724-find-pivot-index](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0724-find-pivot-index/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -122,4 +123,5 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
