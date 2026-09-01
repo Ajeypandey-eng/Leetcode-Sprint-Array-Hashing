@@ -7,6 +7,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,5 +42,6 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
