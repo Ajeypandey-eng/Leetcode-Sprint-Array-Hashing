@@ -8,6 +8,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1929-concatenation-of-array/) | Easy |
@@ -46,6 +47,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -55,4 +57,8 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1929-concatenation-of-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
