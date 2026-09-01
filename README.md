@@ -9,6 +9,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0053-maximum-subarray/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -20,6 +21,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -110,4 +112,8 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
