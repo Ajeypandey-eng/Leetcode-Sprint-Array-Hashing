@@ -21,6 +21,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0020-valid-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,8 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
