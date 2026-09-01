@@ -12,6 +12,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0128-longest-consecutive-sequence](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -26,6 +27,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0128-longest-consecutive-sequence](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -33,6 +35,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -76,12 +79,14 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
@@ -124,4 +129,8 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0724-find-pivot-index/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
