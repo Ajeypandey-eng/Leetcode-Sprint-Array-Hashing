@@ -15,4 +15,16 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
