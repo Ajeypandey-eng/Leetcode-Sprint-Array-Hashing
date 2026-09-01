@@ -9,6 +9,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
@@ -64,6 +65,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -84,6 +86,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0268-missing-number/) | Easy |
