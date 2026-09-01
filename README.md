@@ -11,6 +11,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0053-maximum-subarray](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0053-maximum-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -21,6 +22,7 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | [0001-two-sum](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -75,16 +77,19 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +98,16 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0053-maximum-subarray/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
