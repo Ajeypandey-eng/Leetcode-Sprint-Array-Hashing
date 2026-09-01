@@ -15,10 +15,12 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0009-palindrome-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0020-valid-parentheses/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +29,12 @@ Data Structures, Algorithms, and LeetCode problem-solving solutions built for th
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/0020-valid-parentheses/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ajeypandey-eng/Leetcode-Sprint-Array-Hashing/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
